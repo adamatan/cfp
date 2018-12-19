@@ -1,7 +1,3 @@
----
-title: Adam Matan's Speaker page
----
-
 # Public Speaking Experience
 
 # CFPs
