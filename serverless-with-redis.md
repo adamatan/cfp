@@ -6,7 +6,7 @@ Function-as-a-Service (FaaS) platforms enable developers to deploy code, get a n
 Enter Redis!
 
 In this session I will build a live CRUD app on stage using serverless functions and Redis. In every development step, I will explain the design choices and design patterns being used. The app will be available on github, and developers will be able to deploy it in 5 minutes after the session is over. Developers attending this session will gain basic understanding of Serverless design patterns and best practices, and practical tools for deploying a low-latency app backed by a Redis instance.
-If internet connenction allows, the audience will be able to interact with the app using their cellphones.
+If internet connection allows, the audience will be able to interact with the app using their cellphones.
 
 ## Technical level
 * Redis knowledge is assumed.
