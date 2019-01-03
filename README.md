@@ -25,3 +25,15 @@ Video samples and nicer HTML: https://adamatan.github.io/cfp
 
 # Bio
 Developer and DevRel at [Binaris](https://binaris.com/). Ex [Waze](https://en.wikipedia.org/wiki/Waze), [Yahoo](https://techcrunch.com/2010/10/05/yahoo-dapper/) and [Vioozer](https://www.crunchbase.com/organization/viooz). Building backend apps for the last decade. Public speaker, [Serverless Days TLV](https://tlv.serverlessdays.io/) founder, [Serverless Nights TLV](https://www.meetup.com/ServerlessTLV) co-founder. Linux and Bitcoin fan.
+
+# Public Speaking experience (no markdown)
+* Serverlessconf Paris, 2018-02-15, Sub second CI CD pipeline with FaaS, https://www.youtube.com/watch?v=iG4WIEixTf4, With Avner Braverman
+* Reversim Podcast, 2018-04-24, Episode 340: Serverless with Adam Matan, http://www.reversim.com/2018/04/340-serverless-with-adam-matan.html
+* Serverlessconf San Francisco, 2018-07-31, Think Functions, https://acloud.guru/series/serverlessconf-sf-2018/view/944a6499-5dc0-ac52-8cae-7dafced1a286, With Avner Braverman
+* Serverless TLV Meetup, 2018-09-04, Think Functions, https://www.youtube.com/watch?v=Xr9fa_CtLL8, (Hebrew)
+* Serverless Days Milano, 2018-10-19, Think Functions, https://youtu.be/hB8Mpew44wk
+
+# Communities (no markdown)
+* Founded Serverless Days TLV, Israel's first Serverless conference with ~250 attendees, https://tlv.serverlessdays.io/
+* Co-Founded Serverless Nights TLV, Israel's leading Serverless meetup group, https://www.meetup.com/ServerlessTLV
+* Volunteer at Reversim Summit, Israel's largest open-source and startup conference. Head of conference in 2016, Head of content in 2017, Track moderator in 2018
