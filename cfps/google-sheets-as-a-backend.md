@@ -24,6 +24,7 @@ The surprising solution was using Google Sheets as my backend. User authenticati
 * Lessons learned
 
 # Images
+
 ## Google Sheets Agenda
 ![Google Sheets Agenda](img/google_sheets_agenda_sheets.png "Google Sheets Agenda")
 
