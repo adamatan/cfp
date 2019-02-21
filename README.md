@@ -7,7 +7,7 @@ Video samples and nicer HTML: https://adamatan.github.io/cfp
 * [A practical workshop for building a Serverless app backed by Redis](cfps/redis-serverless-workshop.md)
 * [Think Functions](cfps/think-functions.md)
 * [Think Functions (Short version)](cfps/think-functions-short-kubecon.md)
-
+* [Content curation](cfps/content-curation.md)
 
 # Public Speaking Experience
 * [Serverlessconf Paris](http://paris.serverlessconf.io/), 2018-02-15, [Sub second CI CD pipeline with FaaS](https://www.youtube.com/watch?v=iG4WIEixTf4), With Avner Braverman
