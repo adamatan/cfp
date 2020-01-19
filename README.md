@@ -21,6 +21,7 @@ Image credit - Gidi Fisher, [Artcore media](www.artcore.media)
 
 # CFPs
 
+* [Demystifying git: from SHA to interactive rebase](cfps/2019-06-17---demystifying-git-from-sha-to-interactive-rebase.md)
 * [Google Sheets as a backend: Generating static websites with dynamic content](cfps/google-sheets-as-a-backend.md)
 * [A practical workshop for building a Serverless app backed by Redis](cfps/redis-serverless-workshop.md)
 * [Think Functions](cfps/think-functions.md)
