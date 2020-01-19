@@ -1,6 +1,6 @@
 # Demystifying git: from SHA to interactive rebase
 
-[![Reversim 2019 Stage - Adam Matan - Credit Gidi Fisher www.artcore.media](img/Demystifying-Git-Reversim-Summit.JPG)](https://www.youtube.com/playlist?list=PLCN6Xts5ioBWNGx3bAGPv7LL3qgD6REKe)
+[![Reversim 2019 Stage - Adam Matan - Credit Gidi Fisher https://il.linkedin.com/in/gidi-fisher-22263357](../img/Demystifying-Git-Reversim-Summit.JPG)](http://www.youtube.com/watch?v=FlpXes7QVk4)
 
 Image credit - Gidi Fisher, [Artcore media](www.artcore.media)
 
@@ -15,17 +15,17 @@ In this session I will explain the git fundamentals: file structure, SHAs and ob
 ## Talk Format
 
 * Regular (25-40 minutes)
-* Optional accompanying workshop - 30-120 minutes
+* Optional accompanying workshop (30-120 minutes)
 
 ## Slide deck
 
 [Google Slides](https://docs.google.com/presentation/d/143w10UlY0Byd_I4GPEWInPHpyKlq2drMx1ExinIXZc0/edit?usp=sharing)
 
-## Experience
+## Delivered
 
-* Delivered at [outbrain.com] with a workshop, [Youtube Video (English)](https://youtu.be/j_tP0K_nZcQ)
-* Delivered at Reversim Summit, Israel's biggest software conference, [Youtube Video (Hebrew)](https://www.youtube.com/watch?v=FlpXes7QVk4)
-* Delivered at Wix.com, my current employer, to various engineering forums
+* 2019-05-15 Delivered at [Outbrain.com](outbarin.com) with a workshop, [Youtube Video (English)](https://youtu.be/j_tP0K_nZcQ), [Facebook post](https://www.facebook.com/1839082432986850/posts/2436625203232567)
+* 2019-06-17 [Reversim Summit](https://summit2019.reversim.com/), Israel's biggest software conference. [Agenda]((https://summit2019.reversim.com/session/5c75adf7e037850017ca38cd.html)), [Youtube Video (Hebrew)](https://www.youtube.com/watch?v=FlpXes7QVk4)
+* 2019-2020 Delivered numerous times at Wix.com (my employer) to various engineering groups
 
 ---
 
