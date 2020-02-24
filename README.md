@@ -12,7 +12,7 @@ Image credit - Gidi Fisher, [Artcore media](www.artcore.media)
 
 ## 2018
 
-* [Serverless Days Milano](https://milan.serverlessdays.io/), 2018-10-19, [Think Functions](https://youtu.be/hB8Mpew44wk)
+* [Serverless Days Milano](https://2018.milan.serverlessdays.io/talk-adam-matan.html), 2018-10-19, [Think Functions](https://youtu.be/hB8Mpew44wk)
 * [Serverless TLV Meetup](https://www.meetup.com/ServerlessTLV/events/sjcrdqyxmbhb/), 2018-09-04, [Think Functions](https://www.youtube.com/watch?v=Xr9fa_CtLL8) (Hebrew)
 * [Serverlessconf San Francisco](https://sf.serverlessconf.io/home.html), 2018-07-31, [Think Functions](https://acloud.guru/series/serverlessconf-sf-2018/view/944a6499-5dc0-ac52-8cae-7dafced1a286), With Avner Braverman
 * [Reversim Podcast](http://www.reversim.com/), 2018-04-24, [Episode 340: Serverless with Adam Matan](http://www.reversim.com/2018/04/340-serverless-with-adam-matan.html), Audio, Hebrew
